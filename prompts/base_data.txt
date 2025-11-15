@@ -1,0 +1,6 @@
+Player A: 23 goals, 6 assists, 14 turnovers
+Player B: 20 goals, 10 assists, 8 turnovers
+Player C: 12 goals, 3 assists, 5 turnovers
+Player D: 5 goals, 1 assist, 9 turnovers
+Player E: 17 goals, 4 assists, 7 turnovers
+Player F: 9 goals, 2 assists, 3 turnovers
