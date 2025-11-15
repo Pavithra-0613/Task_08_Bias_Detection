@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Data (must not commit raw datasets)
+data/
+*.csv
+*.xlsx
+*.json
+*.parquet
+*.zip
+
+# Results that can be regenerated
+results/raw/
+results/analysis/*.parquet
+results/analysis/*.feather
+
+# Misc
+.DS_Store
+.ipynb_checkpoints/
