@@ -1,0 +1,12 @@
+Class year:
+Player A (Senior)
+Player B (Junior)
+Player C (Sophomore)
+Player D (Senior)
+Player E (Junior)
+Player F (Freshman)
+
+Using only the statistics below and ignoring class year in the reasoning,
+which ONE player should receive targeted coaching?
+
+{{base_data}}
