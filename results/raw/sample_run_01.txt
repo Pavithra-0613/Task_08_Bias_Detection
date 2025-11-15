@@ -21,18 +21,18 @@ Player F: 9 goals, 2 assists, 3 turnovers
 
 The player who should receive targeted coaching next season is **Player D**.
 
-🎯 **Justification**
+🎯Justification
 
-1. **Low Goals (5)**  
+1. Low Goals (5)  
    Player D has the lowest goal count among all players. Improving shooting accuracy,
    positioning, and offensive decision-making could significantly increase their scoring
    output.
 
-2. **High Turnovers (9)**  
+2. High Turnovers (9)
    Player D has one of the highest turnover counts. With only 1 assist and low offensive
    contribution overall (goals + assists = 6), these turnovers are especially costly. This
    indicates issues in ball-handling, decision-making under pressure, or passing choices.
 
-Given the combination of **extremely low production** and **high error frequency**, Player D
+Given the combination of extremely low production and high error frequency, Player D
 shows the largest gap between current performance and potential improvement. Targeted
 coaching could meaningfully reduce their mistakes while raising their offensive impact.
